@@ -1,0 +1,18 @@
+[
+{
+"tarea": "llamar médico Mateo",
+"estado": "pendiente"
+},
+{
+"tarea": "llevar Mora pediatra",
+"estado": "pendiente"
+}  ,
+{
+"tarea": "buscar Mateo colegio",
+"estado": "terimnado"
+},
+{
+"tarea": "preparar documentación legal",
+"estado": "en proceso"
+}
+]

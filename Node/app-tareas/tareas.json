@@ -1,0 +1,18 @@
+[
+{
+    "titulo":"llamar hector turno",
+    "estado": "pendiente"
+},
+{
+    "titulo":"sacar turno morita vacunas",
+    "estado": "en progreso"
+},
+{
+    "titulo": "buscar mateo cole",
+    "estado": "pendiente"
+},
+{
+    "titulo": "llamar cata",
+    "estado": "terminado"
+}
+]
